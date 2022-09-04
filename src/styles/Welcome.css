@@ -1,0 +1,19 @@
+.Welcome {
+  text-align: center;
+}
+
+.Welcome-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.Welcome-header {
+  background-color: #e0e5ec;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: top;
+  font-size: calc(10px + 2vmin);
+  color: rgb(58, 33, 33);
+}
